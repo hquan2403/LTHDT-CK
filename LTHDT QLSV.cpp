@@ -17,7 +17,6 @@
 
 using namespace std;
 
-// --- Giữ nguyên các lớp và hàm của bạn ---
 const double HocPhi1TC = 450000;
 const double HocPhiEvening = 4000000;
 const double PhuPhiTaiLieu = 50000;
